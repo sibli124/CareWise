@@ -1,0 +1,8 @@
+{
+  "name": "CareWise - AI Health Assistant",
+  "description": "CareWise is an AI-powered mobile health assistant that lets anyone check their symptoms, upload health images for analysis (mock), find local treatment (future), and learn about health. No doctor visit needed. Just care, made wise.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
